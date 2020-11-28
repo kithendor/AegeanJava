@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="paint_images">
+        <item>@drawable/doulages</item>
+        <item>@drawable/lichtenstein</item>
+        <item>@drawable/pollock</item>
+        <item>@drawable/gauguin</item>
+        <item>@drawable/gogh</item>
+        <item>@drawable/degas</item>
+        <item>@drawable/monet</item>
+        <item>@drawable/miro</item>
+        <item>@drawable/kandinsky</item>
+
+    </integer-array>
+</resources>

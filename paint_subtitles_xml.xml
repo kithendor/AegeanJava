@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paint_subtitle">
+        <item>Peinture</item>
+        <item>Sunrise</item>
+        <item>Number 13</item>
+        <item>Nature morte aux pamplemousses</item>
+        <item>La cueillette des olives</item>
+        <item>Cheval à l’abreuvoir</item>
+        <item>La cathédrale de Rouen le matin</item>
+        <item>La sauterelle</item>
+        <item>Beide gestreift</item>
+    </string-array>
+</resources>
+

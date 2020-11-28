@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paint_title">
+        <item>Pierre Soulages</item>
+        <item>Roy Lichtenstein</item>
+        <item>Jackson Pollock</item>
+        <item>Paul Gauguin</item>
+        <item>Vincent van Gogh</item>
+        <item>Edgar Degas</item>
+        <item>Claude Monet</item>
+        <item>Joan Miró</item>
+        <item>Wassily Kandinsky</item>
+    </string-array>
+</resources>
